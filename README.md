@@ -1,2 +1,2 @@
-# exercises
-学习和练习
+# exercises--静态网页
+HTML + CSS
